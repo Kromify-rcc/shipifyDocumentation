@@ -2,10 +2,11 @@ Manages the enderstorages and API.
 
 # Documentation
 
-Connection:
-This occurs through ecnet2.
-The server's address is ```c76qTSo54lzNaqVyizQlM_pbHdHinhUFKU2mnIe19WE```
-Protocol is set to ```shipify```
+**Connection**
+    *This requires ecnet2 https://github.com/migeyel/ecnet
+    *And ccryptolib https://github.com/migeyel/ccryptolib
+    *The server's address is ```c76qTSo54lzNaqVyizQlM_pbHdHinhUFKU2mnIe19WE```
+    *Protocol is set to ```shipify```
 
 Example Client:
 
